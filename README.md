@@ -1,5 +1,4 @@
 # Qkart-Backend
-<a href = "https://qkart-backend-v1.netlify.app/" >:rocket: Demo Link</a>
 <h3>A React.js E-commerce application</h3>
 <p>QKart is an E-commerce application offering a variety of products for customers to choose from.</p>
 <p>:arrow_right: Description of the application:</p>
